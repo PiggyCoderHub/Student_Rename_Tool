@@ -1,0 +1,5 @@
+# 学生名单批量重命名工具 - Python依赖
+# tkinter 为 Python 自带库，不需要单独安装。
+python-docx>=0.8.11
+openpyxl>=3.0.0
+xlrd>=2.0.1
